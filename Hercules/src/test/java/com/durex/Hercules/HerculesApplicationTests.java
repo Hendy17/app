@@ -1,4 +1,4 @@
-package com.durex.Hercules;
+package com.durex.hercules;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
